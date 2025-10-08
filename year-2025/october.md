@@ -41,9 +41,9 @@ activity.
 - [ ] Work on the PL part III and try to finish before I
       leave Chityal.
       
-      - I did not work on this.  I whiled away some time on
-        the internet watching youtube videos.  This should
-        be stopped. 
+  - I did not work on this.  I whiled away some time on the
+    internet watching youtube videos.  This should be
+    stopped.
 
 
 # Wed, Oct 8, 2025
