@@ -31,12 +31,15 @@ activity.
 - [X] Complete the page to provide details of the rice
       varieties and an order form.  Later to share the
       hyperlink with Venkatesh.  
-      - [The page](https://travula.github.io/coopious-2025/rice.html) is given to Venkatesh.
+  - [The
+    page](https://travula.github.io/coopious-2025/rice.html)
+    is given to Venkatesh.  
 
 - [X] Create the list of prople who have already placed the
       orders.  
-      - The [spread sheet](https://docs.google.com/spreadsheets/d/1YDC1iYJN1Q-j2xWHp7oOR9w7oLIPF7xVHBDZoqQIlOc/edit?usp=drive_link)
-        is shared with Yamini.
+  - The [spread
+    sheet](https://docs.google.com/spreadsheets/d/1YDC1iYJN1Q-j2xWHp7oOR9w7oLIPF7xVHBDZoqQIlOc/edit?usp=drive_link)
+    is shared with Yamini.  
 
 - [ ] Work on the PL part III and try to finish before I
       leave Chityal.
