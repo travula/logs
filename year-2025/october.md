@@ -126,9 +126,13 @@ activity.
 
 # Expenses this month
 
-| S.No. | Date       | Desc                              | Amount (in Rs) |
-|-------|------------|:----------------------------------|---------------:|
-| 1.    | 08-10-2025 | Whisky to C.Somaiah and G.Somaiah |            220 |
-|       |            |                                   |                |
+| S.No. | Date       | Desc                              | Amount (in Rs) | Remarks                                      |
+|-------|------------|:----------------------------------|---------------:|----------------------------------------------|
+| 1.    | 08-10-2025 | Whisky to C.Somaiah and G.Somaiah |            220 |                                              |
+| 2.    | 09-10-2025 | Setting the irrigation pipe       |           1950 | 2 male wages @ rs 850 each with tip          |
+| 3.    | 10-10-2025 | Transformer repair                |           1000 | contribution to get the transformer replaced |
+|       |            |                                   |                |                                              |
+|       |            | **Total**                         |       **3170** |                                              |
+    
     
 
