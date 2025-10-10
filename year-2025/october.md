@@ -1,13 +1,38 @@
 Log for the month of October, 2025
 ==========================
 
+# Fri, Oct 10, 2025
+## Tasks
+
+- [ ] Work on the PL part III and try to finish before I
+      leave Chityal.
+- [ ] Thrush and winnow the green gram
+- [ ] Leave to Hyderabad
+
+
+
 # Thu, Oct 9, 2025
 ## Tasks
 - [ ] Work on the PL part III and try to finish before I
-      leave Chityal.
-- [ ] Get the rice bags from the mill for sifting.
-- [ ] Coordinate with male laborers to set the pipe right.
+      leave Chityal.  
+  - worked on it for few hours.  It is not the pace that is
+    desired.  I will have to quantify the effort from now
+    onwards.  Instead watched `One Battle After Another`.
+    Try to set time for browsing and calls and do it mostly
+    during this time.  
+- [X] Get the rice bags from the mill for sifting.  
+  - Drove tractor to the rice mill and got the bags.  I did
+    not count the bags while mill help was loading.  When we
+    were unloading it was noticed three bags were still
+    lying at the mill.  I got them in an auto qnd all the
+    bags are stacked in the south west room of the house.  
+- [X] Coordinate with male laborers to set the pipe right.
+      The pipe is set properly.  The water from the canal
+      when at a lower is flowing into the field now.
 - [ ] Plan to go to Hyderabad.
+  - Thought of going in the evening, but forgot about the
+    task of thrushing and winnowing green gram.  This was
+    slip in the planning. 
 
 ## Plan Ahead
 
@@ -16,16 +41,16 @@ the burn rate.  On the next visit to Chityal, get the mason
 and make the estimation to get the room ready.  Then, I will
 plan to get the kitchen ready using stabilized mud bricks.
 During the next week, during free cycles start writing the
-draft for the platform. 
+draft for the platform.  
 
 
 # Wed, Oct 8, 2025
 
 ## Tasks
 - [ ] Work on the PL part III and try to finish before I
-      leave Chityal.
+      leave Chityal.  
   - Worked couple of hours last evening.  I should be more
-    focussed. Finished couple of lectures.
+    focussed. Finished couple of lectures.  
       
 - [X] After the green gram is picked get the bags to the
       cattle shed  
