@@ -9,8 +9,6 @@ Log for the month of October, 2025
 - [ ] Thrush and winnow the green gram
 - [ ] Leave to Hyderabad
 
-
-
 # Thu, Oct 9, 2025
 ## Tasks
 - [ ] Work on the PL part III and try to finish before I
@@ -27,8 +25,10 @@ Log for the month of October, 2025
     lying at the mill.  I got them in an auto qnd all the
     bags are stacked in the south west room of the house.  
 - [X] Coordinate with male laborers to set the pipe right.
-      The pipe is set properly.  The water from the canal
-      when at a lower is flowing into the field now.
+  - The pipe is set properly.  The water from the canal when
+    at a lower is flowing into the field now.  After this
+    task completed, they came home and laid the pipe
+    undergroud to the water tank for cattle from the sump.
 - [ ] Plan to go to Hyderabad.
   - Thought of going in the evening, but forgot about the
     task of thrushing and winnowing green gram.  This was
