@@ -29,10 +29,11 @@ upon her.  Her proposal is to build it with the twin objectives:
 2. plan and built it thinking my father would use and leave
    out the baggage that my step mon would use it.
    
-We will have to work out the cost and the finances for
-doing.  Once this is achieved, it will be possible to take
-up the drainage, electric wiring of our ancestral house and
-get it into a nice shape so that all of us are comfortable
+We will have to work out the cost and the finances for this
+construction.  Once this is achieved, it will be possible to
+take up the drainage, electric wiring of our ancestral house
+and get it into a nice shape so that all of us are
+comfortable
 and happy.  
    
 
