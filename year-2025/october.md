@@ -16,12 +16,6 @@ Log for the month of October, 2025
   - talked to them, read with them, went for a 10k run in
     the evening.  
 
-We will have to work out the cost and the finances for
-doing.  Once this is achieved, it will be possible to take
-up the drainage, electric wiring of our ancestral house and
-get it into a nice shape so that all of us are comfortable
-and happy.  
-
 ## Plan Ahead
 Yamini and I talked about getting the room on the south west
 redone and a new kitchen built.  Currently, Rajita my step
@@ -34,6 +28,13 @@ upon her.  Her proposal is to build it with the twin objectives:
    future and
 2. plan and built it thinking my father would use and leave
    out the baggage that my step mon would use it.
+   
+We will have to work out the cost and the finances for
+doing.  Once this is achieved, it will be possible to take
+up the drainage, electric wiring of our ancestral house and
+get it into a nice shape so that all of us are comfortable
+and happy.  
+   
 
 # Fri, Oct 10, 2025
 ## Tasks
