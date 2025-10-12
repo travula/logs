@@ -1,13 +1,61 @@
 Log for the month of October, 2025
 ==========================
+# Sun, Oct 12, 2025
+- [ ] Work on the PL part III, spend 8 hours on it today.
+- [ ] read, play and plan other activitied with the kids.
+- [ ] Go for a run in the evening.
+
+# Sat, Oct 11, 2025
+## Tasks
+- [ ] Work on the PL part III, spend 8 hours on it today.
+  - Did not work on it.  I will have to take it seriously.
+    Once this is completed, I can start working on building
+    a portal and also get talking to Devi and collaborate to
+    get the platform done.
+- [X] play with the kids and go for a run with them.
+  - talked to them, read with them, went for a 10k run in
+    the evening.  
+
+We will have to work out the cost and the finances for
+doing.  Once this is achieved, it will be possible to take
+up the drainage, electric wiring of our ancestral house and
+get it into a nice shape so that all of us are comfortable
+and happy.  
+
+## Plan Ahead
+Yamini and I talked about getting the room on the south west
+redone and a new kitchen built.  Currently, Rajita my step
+mother is of the idea that the new kitchen that we are
+planning to build will be entirely used by her.  This was
+conveyed by Karuna vadina.  Yamini also thinks that it is
+better for her to give her own space than impinge ourselves
+upon her.  Her proposal is to build it with the twin objectives:  
+1. sure prospect that we will be using the kitchen in the
+   future and
+2. plan and built it thinking my father would use and leave
+   out the baggage that my step mon would use it.
 
 # Fri, Oct 10, 2025
 ## Tasks
 
 - [ ] Work on the PL part III and try to finish before I
       leave Chityal.
-- [ ] Thrush and winnow the green gram
-- [ ] Leave to Hyderabad
+  - notes on visibility is updated and duck typing video is
+    completed.  Duck typing is polymorphism specific to
+    dynamically typed languages.  I did not make a note of
+    number of hours I worked on this task, may be couple of
+    hours.  I will have to make it 8 hours a day. 
+- [X] Thrash and winnow the green gram
+  - Somaiah and I completed this task.  The yield was only
+    20 kgs.  The initial lack of rain immediately after
+    sowwing did not allow the plant to grow after sowing and
+    continuous rain later allowed multiple weeds grow along.
+    When the crop was ready for harvest, the rains did not
+    relent, and half of the crop was soaked.  But the silver
+    line is the growth of stylo hamata. 
+- [X] Leave to Hyderabad
+  - Reached home at by 9:30 PM.  It is a great feeling to be
+    hugged by the kids and looking at Yamini.
 
 # Thu, Oct 9, 2025
 ## Tasks
@@ -22,7 +70,7 @@ Log for the month of October, 2025
   - Drove tractor to the rice mill and got the bags.  I did
     not count the bags while mill help was loading.  When we
     were unloading it was noticed three bags were still
-    lying at the mill.  I got them in an auto qnd all the
+    lying at the mill.  I got them in an auto and all the
     bags are stacked in the south west room of the house.  
 - [X] Coordinate with male laborers to set the pipe right.
   - The pipe is set properly.  The water from the canal when
@@ -82,13 +130,13 @@ canal when the pipeline was laid initially.
 ## Tasks and their Status
 
 - [X] Work with the laborers, may be most of the day while
-      picking green gram pods.
-      - Three women have turned up.  There is not much green
-        gram to be picked.  Whatever there is, it is sparse.
-        They could not pick even to cover their wages.  So,
-        the plan is to employ another three for tomorrow and
-        work on areas where it green gram is in little
-        abundance and wrap up the picking.
+      picking green gram pods.  
+  - Three women have turned up.  There is not much green
+    gram to be picked.  Whatever there is, it is sparse.
+    They could not pick even to cover their wages.  So, the
+    plan is to employ another three for tomorrow and work on
+    areas where it green gram is in little abundance and
+    wrap up the picking.
 
 - [X] Complete the page to provide details of the rice
       varieties and an order form.  Later to share the
@@ -125,14 +173,16 @@ activity.
 
 
 # Expenses this month
-
+|-------|------------|-----------------------------------|----------------|----------------------------------------------|
 | S.No. | Date       | Desc                              | Amount (in Rs) | Remarks                                      |
-|-------|------------|:----------------------------------|---------------:|----------------------------------------------|
-| 1.    | 08-10-2025 | Whisky to C.Somaiah and G.Somaiah |            220 |                                              |
-| 2.    | 09-10-2025 | Setting the irrigation pipe       |           1950 | 2 male wages @ rs 850 each with tip          |
-| 3.    | 10-10-2025 | Transformer repair                |           1000 | contribution to get the transformer replaced |
+|-------|------------|-----------------------------------|----------------|----------------------------------------------|
+| 1.    | 08-10-2025 | Whisky to C.Somaiah and G.Somaiah | 220            |                                              |
+| 2.    | 09-10-2025 | Setting the irrigation pipe       | 1950           | 2 male wages @ rs 850 each with tip          |
+| 3.    | 10-10-2025 | Transformer repair                | 1000           | contribution to get the transformer replaced |
+| 4.    | 10-10-2025 | Hand Made Chappals                | 500            |                                              |
+| 5.    | 10-10-2025 | Travel to Hyd                     | 870            | bus ticket,snacks,auto                       |
 |       |            |                                   |                |                                              |
-|       |            | **Total**                         |       **3170** |                                              |
+|       |            | **Total**                         | **4540**       |                                              |
     
     
 
