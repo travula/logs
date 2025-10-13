@@ -197,7 +197,7 @@ activity.
 
 # Expenses this month
 
-All the expemses are collated on this [sheet](https://docs.google.com/spreadsheets/d/135zcQu7LfmvtbxDMRWMNqPu5lRdJa49XvfFQ4C5XFTo/edit?usp=sharing)
+All the expemses are collated on this [sheet](https://docs.google.com/spreadsheets/d/135zcQu7LfmvtbxDMRWMNqPu5lRdJa49XvfFQ4C5XFTo/edit?usp=sharing){:target="_blank"}
     
     
 
