@@ -1,9 +1,30 @@
 Log for the month of October, 2025
 ==========================
+
+
+# Mon, Oct 13, 2025
+- [ ] Work on the PL part III, spend 8 hours on it today.
+  - nothing done.  
+- [X] meeting with mindful store  
+  - lot of time, it started 1 hour late.  It is more of
+    getting to know each other.  I do not if they are the
+    right crowd to get the tech stack built.  But why be
+    cynical from the beginning and I will try to be a
+    recepient of their ideas and see how they will help
+    broaden my vision.  
+- [X] distribute the rice  
+  - mostly done, except for a couple near manikonda.  
+  - one packet has to be sent to Bangalore via speed post.  
+
+
+
 # Sun, Oct 12, 2025
 - [ ] Work on the PL part III, spend 8 hours on it today.
-- [ ] read, play and plan other activitied with the kids.
+  - nothing done.
+- [ ] read, play and plan other activities with the kids.
+  - they mostly played on their own. 
 - [ ] Go for a run in the evening.
+  - did not go for a run.
 
 # Sat, Oct 11, 2025
 ## Tasks
@@ -175,16 +196,8 @@ activity.
 
 
 # Expenses this month
-|-------|------------|-----------------------------------|----------------|----------------------------------------------|
-| S.No. | Date       | Desc                              | Amount (in Rs) | Remarks                                      |
-|-------|------------|-----------------------------------|----------------|----------------------------------------------|
-| 1.    | 08-10-2025 | Whisky to C.Somaiah and G.Somaiah | 220            |                                              |
-| 2.    | 09-10-2025 | Setting the irrigation pipe       | 1950           | 2 male wages @ rs 850 each with tip          |
-| 3.    | 10-10-2025 | Transformer repair                | 1000           | contribution to get the transformer replaced |
-| 4.    | 10-10-2025 | Hand Made Chappals                | 500            |                                              |
-| 5.    | 10-10-2025 | Travel to Hyd                     | 870            | bus ticket,snacks,auto                       |
-|       |            |                                   |                |                                              |
-|       |            | **Total**                         | **4540**       |                                              |
+
+All the expemses are collated on this [sheet](https://docs.google.com/spreadsheets/d/135zcQu7LfmvtbxDMRWMNqPu5lRdJa49XvfFQ4C5XFTo/edit?usp=sharing)
     
     
 
