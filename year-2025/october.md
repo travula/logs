@@ -1,7 +1,67 @@
 Log for the month of October, 2025
 ==========================
+# Sun, Oct 19, 2025
+
+# Sat, Oct 18, 2025
+- [ ] Work on the PL part C, spend 8 hours on it today.  
+  - Worked on it for couple of hours.  Worked on blocks and
+    procs.  Blocks allow definition of anonymous functions
+    but these functions cannot be passed around.  The
+    support for closure is absent.  This is overcome in
+    `Procs` and these lambda functions are stored and passed
+    around.  They are thunks and evaluated at a later point
+    in the environment of their definition and therefore
+    they are closures.  
+    
+    I was able to concentrate for some time today.  I am
+    also reading `Karl Marx's Theory of History of Defence`
+    by G A Cohen.  The science of socialism is analyzed and
+    this method is called `[analytic
+    marxism](https://en.wikipedia.org/wiki/Analytical_Marxism)`.
+    In this method a statement made should be without
+    ambiguity and the same is subjected to logical rigor.
+    The pertinet questions are of design, justifcation and
+    strategy to build an alternative to capitalism which
+    translates to:
+    1. what is the form of socialist society that we seek?
+    2. Why do we need it? and 
+    3. How do we achieve it.
+    
+- [ ] Go for a run
+  - Did not got for a run
 
 
+
+- [ ] Went to drop of rice bag to Chandigarh ar Ranigunj, it
+    took more than 4 hours.
+    
+# Fri, Oct 17, 2025
+- [ ] Work on the PL part III, spend 8 hours on it today.  
+  - Worked on it for couple of hours, also went to raghava
+    organics to drop samples of rice.
+- [ ] Go for a run
+  - Did not got for a run
+
+# Thu, Oct 16, 2025
+- [ ] Work on the PL part III, spend 8 hours on it today.  
+  - Worked on it for couple of hours
+- [ ] Go for a run
+  - Did not got for a run
+
+# Wed, Oct 15, 2025
+- [ ] Work on the PL part III, spend 8 hours on it today.  
+  - Worked on it for couple of hours
+- [ ] Go for a run.
+  - Went for a half marathon, felt super better.
+
+# Tue, Oct 14, 2025
+- [ ] Work on the PL part III, spend 8 hours on it today.  
+  - Did not work on this task.  I do not why? why the
+    motivation is not there.  I will have to meditate and
+    think through this.
+- [ ] play with the kids and go for a run with them.  
+  - no run, but worked with the kids.
+  
 # Mon, Oct 13, 2025
 - [ ] Work on the PL part III, spend 8 hours on it today.
   - nothing done.  
