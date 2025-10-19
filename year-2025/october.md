@@ -1,6 +1,9 @@
 Log for the month of October, 2025
 ==========================
 # Sun, Oct 19, 2025
+- [ ] Work on the PL part C, spend 8 hours on it today.  
+- [ ] Take kids to CoForge Public Library
+- [ ] Go for a run in the evening
 
 # Sat, Oct 18, 2025
 - [ ] Work on the PL part C, spend 8 hours on it today.  
@@ -16,8 +19,8 @@ Log for the month of October, 2025
     I was able to concentrate for some time today.  I am
     also reading `Karl Marx's Theory of History of Defence`
     by G A Cohen.  The science of socialism is analyzed and
-    this method is called `[analytic
-    marxism](https://en.wikipedia.org/wiki/Analytical_Marxism)`.
+    this method is called [analytic
+    marxism](https://en.wikipedia.org/wiki/Analytical_Marxism).
     In this method a statement made should be without
     ambiguity and the same is subjected to logical rigor.
     The pertinet questions are of design, justifcation and
